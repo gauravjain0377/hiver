@@ -2,8 +2,6 @@
 
 An enterprise-grade, autonomous customer support agent trained on real-world Twitter customer support interactions for **AppleSupport**. Engineered for high-volume social support channels, the agent delivers sub-second intent classification, vector-grounded reply synthesis, and deterministic policy guardrails to safeguard brand reputation and operational integrity.
 
-Built as part of the **HiverHQ AI Support Agent Engineering Assignment**.
-
 ---
 
 ## 📑 Table of Contents
